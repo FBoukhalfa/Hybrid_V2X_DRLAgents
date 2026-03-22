@@ -1,0 +1,25 @@
+# SAC
+94.78& (best model: more complexe serpentine)
+97.71% (Second best model: more complexe serpentine)
+98.52% (serpentine)
+
+
+# PPO
+84.84% (more complexe serpentine)
+97.57% (Second best model: more complexe serpentine)
+97.71% (serpentine)
+
+
+# TRPO
+78.81% (more complexe serpentine)
+95.27% (Second best model: more complexe serpentine)
+95.51% (serpentine)
+
+# Rainbow
+71.84% (more complexe serpentine)
+95.62% (Second best model: more complexe serpentine)
+97.57% (serpentine)
+
+
+
+
